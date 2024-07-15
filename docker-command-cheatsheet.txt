@@ -1,0 +1,8 @@
+************************************************************************
+*** This document contains the URLs and commands used in this course ***
+************************************************************************
+
+*** 01_02 ***
+https://www.docker.com/products/docker-desktop/
+
+https://code.visualstudio.com/download
